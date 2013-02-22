@@ -1,4 +1,4 @@
 ya-test
 =======
 
-test task from yandex
+test task for yandex
